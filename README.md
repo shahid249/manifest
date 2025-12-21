@@ -1,0 +1,2 @@
+# manifest
+Site Manifest Worker
