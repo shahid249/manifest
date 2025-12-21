@@ -1,7 +1,7 @@
 {
     "name": "CHILD CARE K.G SCHOOL",
     "short_name": "CHILD CARE",
-    "start_url": "/",
+    "start_url": "https://ccschool.wuaze.com/",
     "display": "standalone",
     "background_color": "#070d0e",
     "theme_color": "#12181a",
