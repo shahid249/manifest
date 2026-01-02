@@ -1,0 +1,20 @@
+{
+    "name": "CHILD CARE K.G SCHOOL - STUDENT",
+    "short_name": "CC-STUDENT",
+    "start_url": "https://studentcc.wuaze.com/",
+    "display": "standalone",
+    "background_color": "#070d0e",
+    "theme_color": "#c3c39e",
+    "icons": [
+        {
+            "src": "https://ccschool.wuaze.com/api/assetserver/images/pwa/pwaicon1796669836.png?size=192",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://ccschool.wuaze.com/api/assetserver/images/pwa/pwaicon1796669836.png?size=512",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
