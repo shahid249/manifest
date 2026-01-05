@@ -2,6 +2,7 @@
     "name": "CHILD CARE K.G SCHOOL - STUDENT",
     "short_name": "CC-STUDENT",
     "start_url": "https://studentcc.wuaze.com/",
+    "scope": "https://studentcc.wuaze.com/",
     "display": "standalone",
     "background_color": "#070d0e",
     "theme_color": "#c3c39e",
