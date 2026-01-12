@@ -1,6 +1,6 @@
 {
     "name": "CHILD CARE K.G SCHOOL - STUDENT",
-    "short_name": "ChildCare Student",
+    "short_name": "Child Care Student",
     "start_url": "https://studentcc.wuaze.com/",
     "scope": "https://studentcc.wuaze.com/",
     "display": "standalone",
