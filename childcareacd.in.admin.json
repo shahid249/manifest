@@ -17,5 +17,20 @@
             "sizes": "512x512",
             "type": "image/png"
         }
+    ],
+    "screenshots": [
+        {
+            "src": "https://www.childcareacd.in/admin/api/assetserver/images/pwa/screenshot-wide.png",
+            "sizes": "1280x720",
+            "type": "image/png",
+            "form_factor": "wide",
+            "label": "Dashboard view on desktop"
+        },
+        {
+            "src": "https://www.childcareacd.in/admin/api/assetserver/images/pwa/screenshot-mobile.png",
+            "sizes": "750x1334",
+            "type": "image/png",
+            "label": "Dashboard view on mobile"
+        }
     ]
 }
