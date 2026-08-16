@@ -1,0 +1,22 @@
+{
+    "id": "/student/",
+    "name": "CHILD CARE K.G SCHOOL - STUDENT",
+    "short_name": "Child Care Student",
+    "start_url": "https://www.childcareacd.in/student/",
+    "scope": "https://www.childcareacd.in/student/",
+    "display": "standalone",
+    "background_color": "#070d0e",
+    "theme_color": "#c3c39e",
+    "icons": [
+        {
+            "src": "https://www.childcareacd.in/admin/api/filesroute/assets/images/pwa/pwaicon1360453473.png/size@192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://www.childcareacd.in/admin/api/filesroute/assets/images/pwa/pwaicon1360453473.png/size@512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
