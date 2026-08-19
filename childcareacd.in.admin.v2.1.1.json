@@ -3,6 +3,7 @@
     "name": "CHILD CARE K.G SCHOOL",
     "short_name": "CHILD CARE",
     "start_url": "https://www.childcareacd.in/admin/",
+    "scope": "https://www.childcareacd.in/admin/",
     "display": "standalone",
     "background_color": "#070d0e",
     "theme_color": "#12181a",
